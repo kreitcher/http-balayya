@@ -2,7 +2,7 @@
 
  🚶‍♂️🔨HTTP Balayya Status codes
 
-![intro](https://github.com/anoram/http-vadivelu/blob/master/src/master.jpg)
+![intro](https://github.com/kreitcher/http-balayya/blob/master/src/master.jpg)
 
 # Usage
 example https://vadivelu.anoram.com/gif/200
