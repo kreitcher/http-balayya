@@ -1,8 +1,8 @@
 # On demand HTTP Codes with images
 
- 🚶‍♂️🔨HTTP Vadivelu Status codes
+ 🚶‍♂️🔨HTTP Balayya Status codes
 
-![intro](https://github.com/anoram/http-vadivelu/raw/master/src/intro.jpg)
+![intro](https://github.com/anoram/http-vadivelu/blob/master/src/master.jpg)
 
 # Usage
 example https://vadivelu.anoram.com/gif/200
