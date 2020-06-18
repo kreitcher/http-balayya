@@ -11,8 +11,8 @@ example https://vadivelu.anoram.com/gif/200
         *https://vadivelu.anoram.com/jpg/200
 
 # About
-This is a fan project by Anoram and is hosted at https://vadivelu.anoram.com.
-This does not require any server side code, API works because of the behaviour of our Apache config.
+This is inspired by the fan project by Anoram hosted at https://vadivelu.anoram.com.
+This does not require any server side code, API works because of the behaviour of the Apache config.
 The idea came from https://twitter.com/coderice1/status/1269259097456566272?s=21
 
 
